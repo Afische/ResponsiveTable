@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="27px"
+	 height="69px" viewBox="0 0 27 69" enable-background="new 0 0 27 69" xml:space="preserve">
+<g id="bitmap_ref" display="none">
+	
+		<image display="inline" overflow="visible" width="27" height="69" xlink:href="../Research/A_Fischer/datatables3.3.7/bannerRed.png"  transform="matrix(0.9999 0 0 0.9999 0 0)">
+	</image>
+</g>
+<g id="red" display="none">
+	<g id="ribbon_shadow" display="inline">
+		<polyline fill="#5C1010" points="0,54.916 16.958,54.916 16.958,68.959 		"/>
+	</g>
+	<g id="ribbon_top_left" display="inline">
+		<rect fill="#D90C34" width="26.75" height="54.916"/>
+	</g>
+</g>
+<g id="blue">
+	<g id="ribbon_shadow_copy">
+		<polyline fill="#003F5B" points="0,54.916 16.958,54.916 16.958,68.959 		"/>
+	</g>
+	<g id="ribbon_top_left_copy">
+		<rect fill="#0073CF" width="26.75" height="54.916"/>
+	</g>
+</g>
+</svg>
